@@ -7,7 +7,7 @@
   ],
   "forked_from": ["fsharp/basics"],
   "editor": {
-    "solution_files": ["Basics.cs"],
-    "test_files": ["BasicsTests.cs"]
+    "solution_files": ["Lasagna.cs"],
+    "test_files": ["LasagnaTests.cs"]
   }
 }

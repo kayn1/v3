@@ -6,7 +6,7 @@
     }
   ],
   "editor": {
-    "solution_files": ["Arrays.cs"],
-    "test_files": ["ArraysTests.cs"]
+    "solution_files": ["BirdWatcher.cs"],
+    "test_files": ["BirdWatcherTests.cs"]
   }
 }
